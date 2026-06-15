@@ -1,0 +1,5 @@
+# Created at 2026-06-15T13:49:18.115
+Boot Manifest-JAR contains absolute paths in classpath 'D:\SATYAM\DEVELOPMENT\Projects\Intelligent-Mentorship-Scheduler\backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
